@@ -1,0 +1,366 @@
+From: Aliya Iqbal <a.iqbal116@bradford.ac.uk>
+To: Humairah Ali <h.ali129@bradford.ac.uk>
+Subject: Fw: Follow up email
+Thread-Topic: Follow up email
+Thread-Index: AQHbhG/zoQmw6vo0bk+4bhXJzO8HarNR2FzQgAAS6q6ABCVNsIAAcFEH
+Date: Mon, 24 Feb 2025 14:05:12 +0000
+Message-ID:
+	<LO2P302MB0266877930A6D9B2A5F65080E2C02@LO2P302MB0266.GBRP302.PROD.OUTLOOK.COM>
+References:
+	<LO2P302MB0266D424515001ADF0B8901BE2C72@LO2P302MB0266.GBRP302.PROD.OUTLOOK.COM>
+ <LO2P265MB5887BCAAD4AF9CA08A20E9BDBAC72@LO2P265MB5887.GBRP265.PROD.OUTLOOK.COM>
+ <LO2P302MB0266F8132DE6238614C1DA38E2C72@LO2P302MB0266.GBRP302.PROD.OUTLOOK.COM>
+ <LO2P265MB58877EEA73A090112B1ACE24BAC02@LO2P265MB5887.GBRP265.PROD.OUTLOOK.COM>
+In-Reply-To:
+	<LO2P265MB58877EEA73A090112B1ACE24BAC02@LO2P265MB5887.GBRP265.PROD.OUTLOOK.COM>
+Accept-Language: en-GB, en-US
+Content-Language: en-GB
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+Content-Type: multipart/alternative;
+	boundary="_000_LO2P302MB0266877930A6D9B2A5F65080E2C02LO2P302MB0266GBRP_"
+MIME-Version: 1.0
+
+--_000_LO2P302MB0266877930A6D9B2A5F65080E2C02LO2P302MB0266GBRP_
+Content-Type: text/plain; charset="iso-2022-jp"
+
+
+________________________________
+From: Yunus Mayat <yunus.mayat@bradford.gov.uk>
+Sent: 24 February 2025 07:26
+To: Aliya Iqbal <a.iqbal116@bradford.ac.uk>
+Subject: RE: Follow up email
+
+Caution External Email: Do not click any links or open any attachments unless you trust the sender and know that the content is safe.
+
+Aliya
+
+Many thanks for the email below and attachment
+
+Please use the following links , please note that the datasets does not have to be postcode that was just an example it can be any dataset that has a longitude and latitude
+
+https://datahub.bradford.gov.uk/
+
+or
+
+https://datamillnorth.org/
+
+here some final suggestions before I can sign off, please make sure its signed by yourself or the team lead before sending it back with the updates,
+
+Here are some final suggestions
+
+1. User Experience & Accessibility
+Ensure mobile responsiveness for users accessing the platform on smaller screens.
+Consider auto-suggestions in search functionality to enhance usability.
+Include error handling for incorrect inputs (e.g., invalid asset searches or CSV format errors).
+Define how bulk actions (e.g., batch approvals, rejections, or deletions) will be handled for efficiency.
+
+2. Data Handling & Integration
+Specify the maximum CSV file size the system can handle.
+Clarify data validation rules (e.g., missing lat/long handling, duplicates, incorrect formats).
+If an API is integrated for real-time updates, define rate limits and error handling policies.
+
+3. Performance & Scalability
+Define expected system load (e.g., number of concurrent users and assets displayed).
+Consider lazy loading or caching mechanisms to optimize map performance.
+If asset counts grow significantly, how will the system prevent slowdowns (e.g., database indexing, optimized queries)?
+
+4. Security Enhancements
+Specify session timeout durations for inactive users.
+Ensure role-based access control (RBAC) is detailed (e.g., granular permissions for admins).
+Consider audit logs for tracking admin/user actions.
+
+5. Testing & Quality Assurance
+Define specific testing tools or frameworks for unit and load testing.
+Mention cross-browser compatibility testing for various devices and browsers.
+
+Thanks
+
+Yunus Mayat
+Enterprise Architect and Systems Services Manager
+IT Services
+
+Tel: 01274 437608 ● Mob: 07582 101553
+6th Floor, Britannia House, Hall Ings, Bradford, BD1 1HX
+
+City of Bradford Metropolitan District Council
+Department of Corporate Resources
+
+
+
+
+
+Bradford District is the UK City of Culture 2025
+#CityOfCulture2025 | #Bradford2025 | bradford2025.co.uk
+
+This email, and any attachments, may contain Protected or Restricted information and is intended solely for the individual to whom it is addressed. It may contain sensitive or protectively marked material and should be handled accordingly. If this email has been misdirected, please notify the author immediately. If you are not the intended recipient you must not disclose, distribute, copy, print or rely on any of the information contained in it or attached, and all copies must be deleted immediately. Whilst we take reasonable steps to try to identify any software viruses, any attachments to this email may nevertheless contain viruses which our anti-virus software has failed to identify. You should therefore carry out your own anti-virus checks before opening any documents. Bradford Council will not accept any liability for damage caused by computer viruses emanating from any attachment or other document supplied with this email. Emails may be subject to recording and / or monitoring in accordance with relevant legislation.
+
+
+
+-----Original Message-----
+From: Aliya Iqbal <a.iqbal116@bradford.ac.uk>
+Sent: Friday, February 21, 2025 4:05 PM
+To: Yunus Mayat <yunus.mayat@bradford.gov.uk>
+Subject: Re: Follow up email
+
+Hi there,
+
+Apologies, there may have been a mishap with the emails.
+I had sent an email earlier this week with the updated document. I have attached it again with this email.
+The issue we are currently having is that the link you have provided (see references) does not work. Could you please send us the updated link as well as the signed document asap.
+
+
+Kind regards,
+Aliya Iqbal
+21009042
+Software engineering- year 2
+
+
+________________________________________
+From: Yunus Mayat <yunus.mayat@bradford.gov.uk>
+Sent: 21 February 2025 14:56
+To: Aliya Iqbal
+Subject: RE: Follow up email
+
+Caution External Email: Do not click any links or open any attachments unless you trust the sender and know that the content is safe.
+
+Aliya
+
+Please find an email that I sent on Monday 10th February 2025 at 15:42 , where I gave an update on your documents and changes that need to be made before I approve
+
+I have not received an updated version since that email
+
+Thanks
+
+Yunus Mayat
+Enterprise Architect and Systems Services Manager IT Services
+
+Tel: 01274 437608 ● Mob: 07582 101553
+6th Floor, Britannia House, Hall Ings, Bradford, BD1 1HX
+
+City of Bradford Metropolitan District Council Department of Corporate Resources
+
+
+
+
+
+Bradford District is the UK City of Culture 2025
+#CityOfCulture2025 | #Bradford2025 | bradford2025.co.uk
+
+This email, and any attachments, may contain Protected or Restricted information and is intended solely for the individual to whom it is addressed. It may contain sensitive or protectively marked material and should be handled accordingly. If this email has been misdirected, please notify the author immediately. If you are not the intended recipient you must not disclose, distribute, copy, print or rely on any of the information contained in it or attached, and all copies must be deleted immediately. Whilst we take reasonable steps to try to identify any software viruses, any attachments to this email may nevertheless contain viruses which our anti-virus software has failed to identify. You should therefore carry out your own anti-virus checks before opening any documents. Bradford Council will not accept any liability for damage caused by computer viruses emanating from any attachment or other document supplied with this email. Emails may be subject to recording and / or monitoring in accordance with relevant legislation.
+
+
+
+-----Original Message-----
+From: Aliya Iqbal <a.iqbal116@bradford.ac.uk>
+Sent: Friday, February 21, 2025 2:52 PM
+To: Yunus Mayat <yunus.mayat@bradford.gov.uk>
+Subject: Follow up email
+
+[You don't often get email from a.iqbal116@bradford.ac.uk. Learn why this is important at https://aka.ms/LearnAboutSenderIdentification ]
+
+CAUTION: This email has originated from outside Bradford Council.
+Do not click links or open attachments unless you recognise the sender and know the content is safe.
+
+
+Hi there,
+
+I hope this email finds you well.
+
+I wanted to follow up on my previous email regarding the Requirements document - we’re still awaiting your signature to move forward.
+
+As we have a tight two-week turnaround to produce the prototype, we need the green light as soon as possible to stay on schedule. Please let me know if you have any questions or need any adjustments.
+
+Looking forward to your response. Appreciate your prompt attention!
+
+Kind regards,
+Aliya Iqbal
+21009042
+Software engineering- year 2
+
+
+--_000_LO2P302MB0266877930A6D9B2A5F65080E2C02LO2P302MB0266GBRP_
+Content-Type: text/html; charset="iso-2022-jp"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-2022-jp">
+<style type="text/css" style="display:none;"> P {margin-top:0;margin-bottom:0;} </style>
+</head>
+<body dir="ltr">
+<div style="font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div id="appendonsend"></div>
+<hr tabindex="-1" style="display:inline-block; width:98%">
+<div id="divRplyFwdMsg" dir="ltr"><font face="Calibri, sans-serif" color="#000000" style="font-size:11pt"><b>From:</b> Yunus Mayat &lt;yunus.mayat@bradford.gov.uk&gt;<br>
+<b>Sent:</b> 24 February 2025 07:26<br>
+<b>To:</b> Aliya Iqbal &lt;a.iqbal116@bradford.ac.uk&gt;<br>
+<b>Subject:</b> RE: Follow up email</font>
+<div>&nbsp;</div>
+</div>
+<div class="BodyFragment"><font size="2"><span style="font-size:11pt">
+<div class="PlainText">Caution External Email: Do not click any links or open any attachments unless you trust the sender and know that the content is safe.<br>
+<br>
+Aliya<br>
+<br>
+Many thanks for the email below and attachment<br>
+<br>
+Please use the following links , please note that the datasets does not have to be postcode that was just an example it can be any dataset that has a longitude and latitude<br>
+<br>
+<a href="https://datahub.bradford.gov.uk/" data-auth="NotApplicable">https://datahub.bradford.gov.uk/</a><br>
+<br>
+or<br>
+<br>
+<a href="https://datamillnorth.org/" data-auth="NotApplicable">https://datamillnorth.org/</a><br>
+<br>
+here some final suggestions before I can sign off, please make sure its signed by yourself or the team lead before sending it back with the updates,<br>
+<br>
+Here are some final suggestions<br>
+<br>
+1. User Experience &amp; Accessibility<br>
+Ensure mobile responsiveness for users accessing the platform on smaller screens.<br>
+Consider auto-suggestions in search functionality to enhance usability.<br>
+Include error handling for incorrect inputs (e.g., invalid asset searches or CSV format errors).<br>
+Define how bulk actions (e.g., batch approvals, rejections, or deletions) will be handled for efficiency.<br>
+<br>
+2. Data Handling &amp; Integration<br>
+Specify the maximum CSV file size the system can handle.<br>
+Clarify data validation rules (e.g., missing lat/long handling, duplicates, incorrect formats).<br>
+If an API is integrated for real-time updates, define rate limits and error handling policies.<br>
+<br>
+3. Performance &amp; Scalability<br>
+Define expected system load (e.g., number of concurrent users and assets displayed).<br>
+Consider lazy loading or caching mechanisms to optimize map performance.<br>
+If asset counts grow significantly, how will the system prevent slowdowns (e.g., database indexing, optimized queries)?<br>
+<br>
+4. Security Enhancements<br>
+Specify session timeout durations for inactive users.<br>
+Ensure role-based access control (RBAC) is detailed (e.g., granular permissions for admins).<br>
+Consider audit logs for tracking admin/user actions.<br>
+<br>
+5. Testing &amp; Quality Assurance<br>
+Define specific testing tools or frameworks for unit and load testing.<br>
+Mention cross-browser compatibility testing for various devices and browsers.<br>
+<br>
+Thanks<br>
+<br>
+Yunus Mayat<br>
+Enterprise Architect and Systems Services Manager<br>
+IT Services<br>
+<br>
+Tel: 01274 437608 ● Mob: 07582 101553<br>
+6th Floor, Britannia House, Hall Ings, Bradford, BD1 1HX<br>
+<br>
+City of Bradford Metropolitan District Council<br>
+Department of Corporate Resources<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Bradford District is the UK City of Culture 2025<br>
+#CityOfCulture2025 | #Bradford2025 | bradford2025.co.uk<br>
+<br>
+This email, and any attachments, may contain Protected or Restricted information and is intended solely for the individual to whom it is addressed. It may contain sensitive or protectively marked material and should be handled accordingly. If this email has
+ been misdirected, please notify the author immediately. If you are not the intended recipient you must not disclose, distribute, copy, print or rely on any of the information contained in it or attached, and all copies must be deleted immediately. Whilst we
+ take reasonable steps to try to identify any software viruses, any attachments to this email may nevertheless contain viruses which our anti-virus software has failed to identify. You should therefore carry out your own anti-virus checks before opening any
+ documents. Bradford Council will not accept any liability for damage caused by computer viruses emanating from any attachment or other document supplied with this email. Emails may be subject to recording and / or monitoring in accordance with relevant legislation.<br>
+<br>
+<br>
+<br>
+-----Original Message-----<br>
+From: Aliya Iqbal &lt;a.iqbal116@bradford.ac.uk&gt;<br>
+Sent: Friday, February 21, 2025 4:05 PM<br>
+To: Yunus Mayat &lt;yunus.mayat@bradford.gov.uk&gt;<br>
+Subject: Re: Follow up email<br>
+<br>
+Hi there,<br>
+<br>
+Apologies, there may have been a mishap with the emails.<br>
+I had sent an email earlier this week with the updated document. I have attached it again with this email.<br>
+The issue we are currently having is that the link you have provided (see references) does not work. Could you please send us the updated link as well as the signed document asap.<br>
+<br>
+<br>
+Kind regards,<br>
+Aliya Iqbal<br>
+21009042<br>
+Software engineering- year 2<br>
+<br>
+<br>
+________________________________________<br>
+From: Yunus Mayat &lt;yunus.mayat@bradford.gov.uk&gt;<br>
+Sent: 21 February 2025 14:56<br>
+To: Aliya Iqbal<br>
+Subject: RE: Follow up email<br>
+<br>
+Caution External Email: Do not click any links or open any attachments unless you trust the sender and know that the content is safe.<br>
+<br>
+Aliya<br>
+<br>
+Please find an email that I sent on Monday 10th February 2025 at 15:42 , where I gave an update on your documents and changes that need to be made before I approve<br>
+<br>
+I have not received an updated version since that email<br>
+<br>
+Thanks<br>
+<br>
+Yunus Mayat<br>
+Enterprise Architect and Systems Services Manager IT Services<br>
+<br>
+Tel: 01274 437608 ● Mob: 07582 101553<br>
+6th Floor, Britannia House, Hall Ings, Bradford, BD1 1HX<br>
+<br>
+City of Bradford Metropolitan District Council Department of Corporate Resources<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Bradford District is the UK City of Culture 2025<br>
+#CityOfCulture2025 | #Bradford2025 | bradford2025.co.uk<br>
+<br>
+This email, and any attachments, may contain Protected or Restricted information and is intended solely for the individual to whom it is addressed. It may contain sensitive or protectively marked material and should be handled accordingly. If this email has
+ been misdirected, please notify the author immediately. If you are not the intended recipient you must not disclose, distribute, copy, print or rely on any of the information contained in it or attached, and all copies must be deleted immediately. Whilst we
+ take reasonable steps to try to identify any software viruses, any attachments to this email may nevertheless contain viruses which our anti-virus software has failed to identify. You should therefore carry out your own anti-virus checks before opening any
+ documents. Bradford Council will not accept any liability for damage caused by computer viruses emanating from any attachment or other document supplied with this email. Emails may be subject to recording and / or monitoring in accordance with relevant legislation.<br>
+<br>
+<br>
+<br>
+-----Original Message-----<br>
+From: Aliya Iqbal &lt;a.iqbal116@bradford.ac.uk&gt;<br>
+Sent: Friday, February 21, 2025 2:52 PM<br>
+To: Yunus Mayat &lt;yunus.mayat@bradford.gov.uk&gt;<br>
+Subject: Follow up email<br>
+<br>
+[You don't often get email from a.iqbal116@bradford.ac.uk. Learn why this is important at
+<a href="https://aka.ms/LearnAboutSenderIdentification" data-auth="NotApplicable">
+https://aka.ms/LearnAboutSenderIdentification</a> ]<br>
+<br>
+CAUTION: This email has originated from outside Bradford Council.<br>
+Do not click links or open attachments unless you recognise the sender and know the content is safe.<br>
+<br>
+<br>
+Hi there,<br>
+<br>
+I hope this email finds you well.<br>
+<br>
+I wanted to follow up on my previous email regarding the Requirements document - we’re still awaiting your signature to move forward.<br>
+<br>
+As we have a tight two-week turnaround to produce the prototype, we need the green light as soon as possible to stay on schedule. Please let me know if you have any questions or need any adjustments.<br>
+<br>
+Looking forward to your response. Appreciate your prompt attention!<br>
+<br>
+Kind regards,<br>
+Aliya Iqbal<br>
+21009042<br>
+Software engineering- year 2<br>
+<br>
+</div>
+</span></font></div>
+</body>
+</html>
+
+--_000_LO2P302MB0266877930A6D9B2A5F65080E2C02LO2P302MB0266GBRP_--
