@@ -1,0 +1,9 @@
+﻿date,time,name,capacity,empty_places,status,latitude,longitude,directionsURL
+2022-02-15,13:50,Westgate,116,88,Faulty,53.796291,-1.759143,"https://maps.google.com/?daddr=53.796291,-1.759143"
+2022-02-15,13:50,Burnett St,122,95,Faulty,53.795739,-1.744756,"https://maps.google.com/?daddr=53.795739,-1.744756"
+2022-02-15,13:50,Crown Court,142,29,Spaces,53.792179,-1.748466,"https://maps.google.com/?daddr=53.792179,-1.748466"
+2022-02-15,13:50,Leisure Exchange,996,775,Spaces,53.79222,-1.746683,"https://maps.google.com/?daddr=53.79222,-1.746683"
+2022-02-15,13:50,NCP Hall Ings,526,470,Spaces,53.791838,-1.752201,"https://maps.google.com/?daddr=53.791838,-1.752201"
+2022-02-15,13:50,Broadway,1254,722,Spaces,53.794175,-1.750107,"https://maps.google.com/?daddr=53.794175,-1.750107"
+2022-02-15,13:50,Kirkgate Centre,611,337,Spaces,53.795002,-1.755938,"https://maps.google.com/?daddr=53.795002,-1.755938"
+2022-02-15,13:50,Sharpe Street,98,6,Spaces,53.789785,-1.756187,"https://maps.google.com/?daddr=53.789785,-1.756187"
